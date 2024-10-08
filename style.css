@@ -1,0 +1,12 @@
+body {
+    font-family:'Courier';
+    text-align: center;
+    background-color: darkslategrey;
+    color: aquamarine;
+}
+
+#canvas-container {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
